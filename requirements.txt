@@ -1,6 +1,6 @@
-streamlit
-yfinance
-pandas
-numpy
-plotly
-requests
+yfinance>=0.2.40
+dash>=2.18.0
+plotly>=5.22.0
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
